@@ -1,0 +1,1 @@
+In this project I practiced using Python to scrape static web pages. I used BeautifulSoup and requests library to implement this. I learned how to inspect a web page's HTML and exame its HTML structure.
